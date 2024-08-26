@@ -9,6 +9,7 @@
 
        PROCEDURE DIVISION.
            MOVE 'John Doe' TO WS-NAME
+           MOVE 'kumar' TO WS-NAME
            MOVE 50000.00 TO WS-SALARY
            MOVE 'Engineering' TO WS-DEPARTMENT
 
